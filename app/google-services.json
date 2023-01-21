@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589989071735",
+    "project_id": "firebaeauthproject",
+    "storage_bucket": "firebaeauthproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589989071735:android:9855c27e528a0324896f72",
+        "android_client_info": {
+          "package_name": "com.palash.googlesigninusingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589989071735-5jo7rjc2kcldc3fh755vovlfo7a5qsus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.palash.googlesigninusingfirebase",
+            "certificate_hash": "d298d50eb95efaf8f1cb2cd934613065174d8e25"
+          }
+        },
+        {
+          "client_id": "589989071735-b9it22ldjn37na669o745eacso70us6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJi8KuD3SP4C5_prkkBCe4Bmv8SQoiBTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589989071735-b9it22ldjn37na669o745eacso70us6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
